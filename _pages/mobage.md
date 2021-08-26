@@ -12,7 +12,7 @@ Keterangan status: Aktif bermain/Pasif bermain.
 
 *Rating* bersifat personal dan tidak mencerminkan kualitas gim yang sebenarnya.
 
-| **Judul**                               | **Status** | **Pengembang**                                    | **/10** |
+| Judul                                   |   Status   | Pengembang                                        |   /10   |
 | --------------------------------------- | :--------: | ------------------------------------------------- | :-----: |
 | 2048                                    |            | tpcstld                                           |    -    |
 | 2048                                    |            | Estoty Entertainment LLC                          |    -    |
