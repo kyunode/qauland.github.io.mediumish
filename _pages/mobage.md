@@ -6,7 +6,7 @@ permalink: /mobage
 
 Berikut adalah datar beberapa gim *mobile* yang (seingat saya) pernah saya instal. Mayoritas gim yang ada di sini diperoleh dari Google Play Store. Sisanya diperoleh dari toko aplikasi pihak ketiga, seperti [APK4Fun](<https://www.apk4fun.com/>), [Apkpure](<https://apkpure.com/>), [QooApp](<https://apps.qoo-app.com/en>), dan sebagainya.
 
-- Judul gim yang dicetak **tebal** berarti gim tersebut sedang terinstal (per 5 Maret 2021).
+- Judul gim yang dicetak **tebal** berarti gim tersebut sedang terinstal.
 - Keterangan status: Aktif bermain/Pasif bermain.
 - Skor gim bersifat personal dan tidak mencerminkan kualitas gim yang sebenarnya.
   - Pengalaman bermain saat menggunakan gawai yang saya miliki (realme 5) sangat berpengaruh terhadap skor.
@@ -93,7 +93,7 @@ Berikut adalah datar beberapa gim *mobile* yang (seingat saya) pernah saya insta
 | Diadein                                 |            | shinyu kim                                        |    -    |
 | DIGIMON ReArise                         |            | BANDAI NAMCO Entertainment Inc.                   |    7    |
 | DISGAEA RPG                             |            | Boltrend Games                                    |    6    |
-| Diverse Order                           |            | YG Games                                          |    7    |
+| Diverse Order (Early Access)            |            | YG Games                                          |    -    |
 | Dots                                    |            | PlayDots                                          |    7    |
 | Dragalia Lost                           |            | Nintendo Co., Ltd.                                |    8    |
 | Dragon Heroes Tactics                   |            | Perplelab, Inc.                                   |    5    |
