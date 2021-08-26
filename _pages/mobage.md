@@ -93,6 +93,7 @@ Berikut adalah datar beberapa gim *mobile* yang (seingat saya) pernah saya insta
 | Diadein                                 |            | shinyu kim                                        |    -    |
 | DIGIMON ReArise                         |            | BANDAI NAMCO Entertainment Inc.                   |    7    |
 | DISGAEA RPG                             |            | Boltrend Games                                    |    6    |
+| Diverse Order                           |            | YG Games                                          |    7    |
 | Dots                                    |            | PlayDots                                          |    7    |
 | Dragalia Lost                           |            | Nintendo Co., Ltd.                                |    8    |
 | Dragon Heroes Tactics                   |            | Perplelab, Inc.                                   |    5    |
