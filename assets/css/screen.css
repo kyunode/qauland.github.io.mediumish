@@ -160,7 +160,7 @@ section.recent-posts {
 .listfeaturedtag h4.card-text,
 .listrecent h4.card-text {
     color: rgba(0, 0, 0, .44);
-    font-family: 'Source Sans 3', sans-serif;
+    font-family: 'Inria Sans', sans-serif;
     font-size: 0.95rem;
     line-height: 1.6;
     font-weight: 400;
@@ -325,12 +325,12 @@ span.post-read-more a:hover {
 }
 
 .mainheading h1.sitetitle {
-    font-family: 'Source Serif 4', sans-serif;
+    font-family: 'Inria Serif', serif;
     font-weight: 300;
 }
 
 .mainheading h1.posttitle {
-    font-weight: 400;
+    font-weight: 700;
     margin-bottom: 1rem;
 }
 
@@ -351,7 +351,7 @@ span.post-read-more a:hover {
 }
 
 .article-post {
-    font-family: 'Source Sans 3', serif;
+    font-family: 'Inria Sans', sans-serif;
     font-size: 1.1rem;
     /* font-feature-settings: "cv05", "cv08"; */
     line-height: 1.84;
@@ -709,7 +709,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Source Serif 4', -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-family: 'Inria Serif', -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
     /* font-feature-settings: "cv05", "cv08"; */
 }
 
@@ -736,7 +736,7 @@ h6 {
 }
 
 .layout-page .article-post {
-    font-family: 'Source Sans 3', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-family: 'Inria Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     font-size: 1rem;
     /* font-feature-settings: "cv05", "cv08"; */
 }
@@ -907,7 +907,7 @@ iframe {
     line-height: 1;
     padding: 7px 3px;
     width: 215px;
-    font-family: 'Source Sans 3', sans-serif;
+    font-family: 'Inria Sans', sans-serif;
     text-align: center;
     border-radius: 3px;
     transition: all .4s;
@@ -987,7 +987,7 @@ em {
 }
 
 .col-md-6, .nav-link, .launch-modal-search {
-    font-family: 'Source Sans 3', sans-serif;
+    font-family: 'Inria Sans', sans-serif;
     /* font-feature-settings: "cv05", "cv08"; */
 }
 
@@ -996,6 +996,6 @@ em {
 } **/
 
 .lunrsearchresult {
-    font-family: 'Source Sans 3', sans-serif;
+    font-family: 'Inria Sans', sans-serif;
     /* font-feature-settings: "cv05", "cv08"; */
 }
